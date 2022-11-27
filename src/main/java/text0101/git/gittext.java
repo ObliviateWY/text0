@@ -8,6 +8,7 @@ public class gittext {
         System.out.println("hello git4");
         System.out.println("ms-text");
         System.out.println("ht-text");
+        System.out.println("ssh-git");
 
     }
 }
