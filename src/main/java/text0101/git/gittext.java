@@ -9,6 +9,7 @@ public class gittext {
         System.out.println("ms-text");
         System.out.println("ht-text");
         System.out.println("ssh-git");
-
+        System.out.println("ssh-git");
+        System.out.println("sasd分支git");
     }
 }
