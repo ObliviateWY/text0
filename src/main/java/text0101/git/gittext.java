@@ -10,5 +10,10 @@ public class gittext {
         System.out.println("ht-text");
         System.out.println("ssh-git");
         System.out.println("pull-text");
+        
+        
+        
+        System.out.println("pull-text");
+        
     }
 }
